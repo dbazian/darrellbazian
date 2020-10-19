@@ -1,0 +1,74 @@
+html {
+  background-color: black;
+}
+
+.icon-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-pad {
+  padding: 10px;
+}
+
+.youtube {
+  padding-top: 30px;
+  padding-bottom: 50%;
+  margin-bottom: 10%;
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+
+.youtube iframe,
+.youtube object,
+.youtube embed {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.coding h2 {
+  margin: 0;
+}
+
+.coding-link {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+}
+
+.coding-link a {
+  margin-left: 10px;
+}
+
+.coding-link p {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=generic.css.map */
