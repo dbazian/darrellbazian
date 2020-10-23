@@ -110,7 +110,7 @@
         }
         .navbar-nav>li>a:hover {
             text-decoration: none;
-            color: #cdc3ea!important;
+            color: #00b0f0!important;
         }
         .navbar-nav>li>a i {
             margin-right: 5px;
@@ -183,7 +183,7 @@
             border-radius: 0px !important;
         }
         .navbar-inverse {
-            background-color: #434343;
+            background-color: #00b0f0;
             border: none;
         }
         .column-custom-wrap{
