@@ -56,7 +56,7 @@ npm install
 
 ## Usage
 
-A app for mobile music licensing. After creating an account you can search and filter through lists of custom audio. Once you find an audio track that you like you can purchase and download.
+Portfolio for Darrell Bazian. Showcasing my resume, coding, music, and video projects.
 
 <!-- CONTRIBUTING -->
 
