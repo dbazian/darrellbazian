@@ -3198,6 +3198,9 @@ body.is-touch .tiles article .content {
   }
 }
 
+.coding {
+  margin-bottom: 55px;
+}
 .coding h2 {
   margin: 0;
 }
